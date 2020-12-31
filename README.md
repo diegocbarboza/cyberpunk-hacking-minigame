@@ -8,4 +8,4 @@ TODO:
 
 Preview:
 
-![](https://media.giphy.com/media/jFdH5cS5rQ0iD7Kym7/giphy.gif)
+![](https://media.giphy.com/media/bzmVreFgBJRdCmDbyb/giphy.gif)
